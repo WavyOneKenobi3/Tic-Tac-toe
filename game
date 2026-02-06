@@ -1,0 +1,8 @@
+#2 player game
+
+#Board printed out everytime a player makes move
+  #board will be number keypad
+  #use number to place position of symbol on board
+
+# accept input from players position & place symbol on board
+ 
