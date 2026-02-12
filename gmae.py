@@ -2,9 +2,10 @@
 #2 players game
 
 #board should be printed
-board = []
-for _ in range(9):
-    print(board)
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
+for row in board:
+    print(row[0] | row[1] | row[2])
+    print(------------------------)
 
 
 #accept input of players position 
